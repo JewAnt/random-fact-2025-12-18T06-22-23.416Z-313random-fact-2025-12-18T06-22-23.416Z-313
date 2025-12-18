@@ -1,2 +1,5 @@
-# random-fact-2025-12-18T06-22-23.416Z-313random-fact-2025-12-18T06-22-23.416Z-313
-"Daily unique fact: " + steps.code.$return_value.fact
+# Daily Random Fact
+
+In 1836, Mexican General Santa Anna held an elaborate state funeral for his amputated leg. updated
+
+*Generated on 2025-12-18T06:22:24.954Z*
